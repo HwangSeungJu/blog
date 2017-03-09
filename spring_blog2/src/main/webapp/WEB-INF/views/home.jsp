@@ -94,6 +94,7 @@ onclick="location.href='${pageContext.request.contextPath }/member/logout'">
 			</tr>
 
 		</table>
+		<p>아아아아아아아아아아아아아아아아아아아앙아앙안녕???</p>
 	</div>
 	<!-- 상단 메뉴 끝 -->
 </body>
